@@ -1,4 +1,4 @@
-= Glossary creating
+# Glossary creating
 
 Analyze all files from the doc-modular repository that are referenced in openwebui.asm.xml
 to enhance the glossary AI-glossary.xml. Follow these rules:
