@@ -1,1 +1,23 @@
+Review the current file and suggest improved version based on the following collection of rules.
 
+# Language
+* Use American English.
+* For verbs ending in either -ise or -ize (like localise/localize), use the -ize variant.
+* Do not use contractions such as “don't”.
+* End sentences in a period. Avoid using exclamation marks. Restrict question marks to question and answer sections. 
+## Acronyms
+* Introduce acronyms by providing the expansion in parentheses after the acronym.
+* Headlines or captions must not contain both an acronym and its expansion.
+* Create plural forms of acronyms by adding a lowercase "s".
+* Avoid using possessive forms of acronyms. For example, do not use "XMLʼs specification."
+## Inclusiveness
+* Do not limit your audience by excluding or offending members of it.
+* Avoid indicating gender. If possible, use plural to allow use of "they" as the pronoun.
+## Commas
+* Use commas to separate elements in a series of three or more elements, but do not put a comma before the conjunction in most simple series. For example, “Find basic information about how to register your system, modules and extensions.”
+* Use commas around phrases like "for example" and "that is". Introductory phrases at the beginning of a sentence are normally followed by a comma. For example, “Before using YaST Online Update, configure a network connection.”
+## Headings
+* Use title-style capitalization.
+* Keep headings short and simple.
+* When writing a descriptive section, use a noun-based heading title, for example, “Concepts of Software.”
+* When writing a task-orientated section, use a verb in gerund, for example, “Installing Software.”
