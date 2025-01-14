@@ -1,6 +1,6 @@
-Review the current file and suggest improved version based on the following collection of rules.
+Analyze the current file. If a phrase, title, sentence or paragraph do not follow the below collection of rules,
+suggest a more correct update.
 
-# Language
 ## General
 * Use American English.
 * Form clear and direct sentences with 25 words or less.
