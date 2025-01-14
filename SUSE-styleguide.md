@@ -1,5 +1,5 @@
 Analyze the current file. If a phrase, title, sentence or paragraph do not follow the below collection of rules,
-correct them them.
+correct them.
 
 ## General
 * Use American English.
