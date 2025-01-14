@@ -28,7 +28,7 @@ Review the current file and suggest improved version based on the following coll
 * Use commas to separate elements in a series of three or more elements, but do not put a comma before the conjunction in most simple series. For example, “Find basic information about how to register your system, modules and extensions.”
 * Use commas around phrases like "for example" and "that is". Introductory phrases at the beginning of a sentence are normally followed by a comma. For example, “Before using YaST Online Update, configure a network connection.”
 ## Headings
-* Use title-style capitalization.
+* Use title-style capitalization which means that the first letter of the first word of a phrase is capitalized.
 * Keep headings short and simple.
 * When writing a descriptive section, use a noun-based heading title, for example, “Concepts of Software.”
 * When writing a task-orientated section, use a verb in gerund, for example, “Installing Software.”
