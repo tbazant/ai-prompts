@@ -1,20 +1,21 @@
 Review the current file and suggest improved version based on the following collection of rules.
 
 # Language
+## General
+* Use American English.
+* Form clear and direct sentences with 25 words or less.
+* For verbs ending in either -ise or -ize (like localise/localize), use the -ize variant.
+* Do not use contractions such as “don't”.
+* Avoid possessives of inanimate objects. 
+* End sentences in a period. Avoid using exclamation marks. Restrict question marks to question and answer sections.
+* Avoid using semicolons to join sentences.
+* Use the simple present tense. Apply the simple present tense even to sentences with “if” or “when” clauses.
 ## Tone
 * Maintain a professional tone.
 * Do not use humor.
 * Use the second person (“you”) to refer to the reader.
 * Where possible, use active voice.
 * When giving a recommendation, start with “We recommend.” and not “It is recommended.”
-## General
-* Use American English.
-* Form clear and direct sentences with 25 words or less.
-* For verbs ending in either -ise or -ize (like localise/localize), use the -ize variant.
-* Do not use contractions such as “don't”.
-* End sentences in a period. Avoid using exclamation marks. Restrict question marks to question and answer sections.
-* Avoid using semicolons to join sentences.
-* Use the simple present tense. Apply the simple present tense even to sentences with “if” or “when” clauses.
 ## Acronyms
 * Introduce acronyms by providing the expansion in parentheses after the acronym.
 * Headlines or captions must not contain both an acronym and its expansion.
