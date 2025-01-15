@@ -1,35 +1,39 @@
-Analyze the current file. If a phrase, title, sentence or paragraph do not follow the below collection of rules,
-correct them.
-
-## General
+### General
 * Use American English.
-* Form clear and direct sentences with 25 words or less.
-* For verbs ending in either -ise or -ize (like localise/localize), use the -ize variant.
-* Do not use contractions such as “don't”.
-* Avoid possessives. 
-* End sentences in a period. Avoid using exclamation marks. Restrict question marks to question and answer sections.
-* Avoid using semicolons to join sentences.
-* Use the simple present tense. Apply the simple present tense even to sentences with “if” or “when” clauses.
-## Tone
+* Write clear sentences with 25 words or less.
+* Use "-ize" spellings.
+* Do not use contractions.
+* Avoid possessives.
+* End sentences with a period.
+* Do not join sentences with semicolons.
+* Use the simple present tense.
+* Use exactly 1 space character between sentences.
+
+### Tone
 * Maintain a professional tone.
-* Use the second person (“you”) to refer to the reader.
-* Where possible, use active voice.
-* When giving a recommendation, start with “We recommend.” and not “It is recommended.”
-## Acronyms
-* Introduce acronyms by providing the expansion in parentheses after the acronym.
-* Headlines or captions must not contain both an acronym and its expansion.
-* Create plural forms of acronyms by adding a lowercase "s".
-## Inclusiveness
-* Avoid indicating gender.
-* If possible, use plural to allow use of "they" as the pronoun.
-## Commas
-* Use commas to separate elements in a series of three or more elements, but do not put a comma before the conjunction in most simple series. For example, “Find basic information about how to register your system, modules and extensions.”
-* Use commas around phrases like "for example" and "that is". Introductory phrases at the beginning of a sentence are normally followed by a comma. For example, “Before using YaST Online Update, configure a network connection.”
-## Headings
-* For headings and titles, capitalize only the first letter of its first word.
-* Keep headings short and simple.
-* When writing a descriptive section, use a noun-based heading title, for example, “Concepts of Software.”
-* When writing a task-orientated section, use a verb in gerund, for example, “Installing Software.”
-## Numbers
-* Write the integers zero through nine as words. Use numerals for all other numbers.
-* When the unit of a measurement is abbreviated, always use numerals for the number. Add a non-breaking space "&nbsp;" between the numeral and its unit abbreviation.
+* Address the reader as "you".
+* Use active voice where possible.
+* Start recommendations with "We recommend".
+
+### Acronyms
+* Define acronyms at first use.  Place the definition in parentheses after the acronym.
+* Do not use both an acronym and its expansion in headings.
+* Form plural acronyms by adding a lowercase "s".
+
+### Inclusiveness
+* Do not specify gender.
+* Use plural nouns and pronouns where possible.
+
+### Commas
+* Use commas in lists of three or more items. Do not place a comma before the final conjunction in simple series.
+* Use commas around phrases like "for example" or "that is".  Use a comma after introductory phrases.
+
+### Headings
+* Capitalize only the first word of a heading.
+* Keep headings short.
+* Use noun-based headings for descriptive sections.
+* Use gerund-based headings for task-oriented sections.
+
+### Numbers
+* Spell out numbers zero through nine. Use numerals for 10 and above.
+* Always use numerals with abbreviated units. Insert a non-breaking space between the number and the unit.
