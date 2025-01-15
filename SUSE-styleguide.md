@@ -36,7 +36,7 @@
 
 # Numbers
 * Spell out numbers zero through nine. Use numerals for 10 and above.
-* * Always use numerals with abbreviated units. Insert a non-breaking space between the number and the unit.
+* Always use numerals with abbreviated units. Insert a non-breaking space between the number and the unit.
 
 # DocBook-related
 * Do not resolve XML entities, keep them.
