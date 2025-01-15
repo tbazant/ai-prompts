@@ -16,7 +16,7 @@
 * Start recommendations with "We recommend".
 
 ### Acronyms
-* Define acronyms at first use.  Place the definition in parentheses after the acronym.
+* Define acronyms at first use. Place the definition in parentheses after the acronym.
 * Do not use both an acronym and its expansion in headings.
 * Form plural acronyms by adding a lowercase "s".
 
