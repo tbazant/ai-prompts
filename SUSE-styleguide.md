@@ -1,22 +1,24 @@
 # Task
-Update the current file (or selected text) where
-* any of the below rules are not respected
-* the meaning is not clear
+Update the current file (or selected text) where any of the below rules are not respected or the meaning is not clear.
 
-# General
+# Language
 * Use American English.
-* Shorten or split sentences longer than 25 words but keep their meaning.
-* Maintain the full technical depth and context of the original content.
-* When simplifying or splitting sentences, preserve all technical details and relationships between concepts.
-* Each concept from the source material must be present in the revised version.
 * Use "-ize" spellings.
 * Do not use contractions.
 * Avoid possessives.
+* Use the simple present tense.
+
+# Content
+* Maintain the full technical depth and context of the original content.
+* When simplifying or splitting sentences, preserve all technical details and relationships between concepts.
+* Each concept from the source material must be present in the revised version.
+* Do not rephrase whole sentences or paragraphs where updating only a phrase fulfilles the task.
+
+# Structure
+* Shorten or split sentences longer than 25 words but keep their meaning.
 * End sentences with a period.
 * Do not join sentences with semicolons.
-* Use the simple present tense.
 * Use exactly 1 space character between sentences.
-* Keep line breaks at column 80.
 
 # Tone
 * Maintain a consise and explanatory professional tone.
@@ -47,6 +49,7 @@ Update the current file (or selected text) where
 * Always use numerals with abbreviated units. Insert a non-breaking space between the number and the unit.
 
 # DocBook-related
+* Keep line breaks at column 80.
 * Do not resolve XML entities, keep them.
 * Do not update the content of the <screen/> element.
 * Preserve all technical options, commands, parameters or links enclosed in <literal/>, <option/>, <filename/>, <command/>, <replaceable/>, <link/> or <xref/> elements.
