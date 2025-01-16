@@ -6,6 +6,9 @@ Update the current file (or selected text) where
 # General
 * Use American English.
 * Shorten or split sentences longer than 25 words but keep their meaning.
+* Maintain the full technical depth and context of the original content.
+* When simplifying or splitting sentences, preserve all technical details and relationships between concepts.
+* Each concept from the source material must be present in the revised version.
 * Use "-ize" spellings.
 * Do not use contractions.
 * Avoid possessives.
@@ -16,7 +19,7 @@ Update the current file (or selected text) where
 * Keep line breaks at column 80.
 
 # Tone
-* Maintain a professional tone.
+* Maintain a consise and explanatory professional tone.
 * Address the reader as "you".
 * Use active voice where possible.
 * Start recommendations with "We recommend".
@@ -45,3 +48,5 @@ Update the current file (or selected text) where
 
 # DocBook-related
 * Do not resolve XML entities, keep them.
+* Do not update the content of the <screen/> element.
+* Preserve all technical details enclosed in <literal/>, <option/>, <filename/>, <command/>, and <replaceable/> elemets.
