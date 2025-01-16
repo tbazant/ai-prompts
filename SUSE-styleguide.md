@@ -1,6 +1,11 @@
+# Task
+Update the current file (or selected text) where
+* any of the below rules are not respected
+* the meaning is not clear
+
 # General
 * Use American English.
-* Write clear sentences with 25 words or less.
+* Shorten or split sentences longer than 25 words but keep their meaning.
 * Use "-ize" spellings.
 * Do not use contractions.
 * Avoid possessives.
@@ -8,6 +13,7 @@
 * Do not join sentences with semicolons.
 * Use the simple present tense.
 * Use exactly 1 space character between sentences.
+* Keep line breaks at column 80.
 
 # Tone
 * Maintain a professional tone.
@@ -19,10 +25,6 @@
 * Define acronyms at first use. Place the definition in parentheses after the acronym.
 * Do not use both an acronym and its expansion in headings.
 * Form plural acronyms by adding a lowercase "s".
-
-# Inclusiveness
-* Do not specify gender.
-* Use plural nouns and pronouns where possible.
 
 # Commas
 * Use commas in lists of three or more items. Do not place a comma before the final conjunction in simple series.
