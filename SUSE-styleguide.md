@@ -32,8 +32,7 @@ Update the current file (or selected text) where any of the below rules are not 
 * Form plural acronyms by adding a lowercase "s".
 
 # Commas
-* Do not use a comma before 'and' or 'or' in simple lists of single words. For example, write 'apples, oranges and bananas', not 'apples, oranges, and bananas'.
-* However, use the comma before 'and' or 'or' in more complex enumerations, such as lists with phrases or clauses.
+* Be mindful of comma usage before 'and' in lists. Do NOT use a comma before 'and' if the list items are single words. Specifically, avoid constructions like 'A, B, and C'. Instead, use 'A, B and C'.
 * Use commas around phrases like "for example" or "that is".  Use a comma after introductory phrases.
 
 # Colons
