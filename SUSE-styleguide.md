@@ -49,4 +49,4 @@ Update the current file (or selected text) where
 # DocBook-related
 * Do not resolve XML entities, keep them.
 * Do not update the content of the <screen/> element.
-* Preserve all technical details enclosed in <literal/>, <option/>, <filename/>, <command/>, and <replaceable/> elemets.
+* Preserve all technical options, commands, parameters or links enclosed in <literal/>, <option/>, <filename/>, <command/>, <replaceable/>, <link/> or <xref/> elements.
