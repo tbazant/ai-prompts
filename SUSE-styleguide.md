@@ -9,7 +9,7 @@ Update the current file (or selected text) where any of the below rules are not 
 * Use the simple present tense.
 
 # Content
-* Maintain the full technical depth and context of the original content.
+* "Maintain the full technical depth and context of the original content with the LIX readability grade 40-45
 * When simplifying or splitting sentences, preserve all technical details and relationships between concepts.
 * Each concept from the source material must be present in the revised version.
 * Do not rephrase whole sentences or paragraphs where updating only a phrase fulfilles the task.
@@ -18,7 +18,7 @@ Update the current file (or selected text) where any of the below rules are not 
 * Shorten or split sentences longer than 25 words but keep their meaning.
 * End sentences with a period.
 * Do not join sentences with semicolons.
-* Use exactly 1 space character between sentences.
+* Enforce proper sentence spacing. Use exactly one space character between sentences. Eliminate any instances of double spaces.
 
 # Tone
 * Maintain a consise and explanatory professional tone.
@@ -32,7 +32,8 @@ Update the current file (or selected text) where any of the below rules are not 
 * Form plural acronyms by adding a lowercase "s".
 
 # Commas
-* Use commas in lists of three or more items. Do not place a comma before the final conjunction in simple series.
+* Do not use a comma before 'and' or 'or' in simple lists of single words. For example, write 'apples, oranges and bananas', not 'apples, oranges, and bananas'.
+* However, use the comma before 'and' or 'or' in more complex enumerations, such as lists with phrases or clauses.
 * Use commas around phrases like "for example" or "that is".  Use a comma after introductory phrases.
 
 # Colons
