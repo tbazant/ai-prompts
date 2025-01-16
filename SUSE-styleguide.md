@@ -9,16 +9,19 @@ Update the current file (or selected text) where any of the below rules are not 
 * Use the simple present tense.
 
 # Content
-* "Maintain the full technical depth and context of the original content with the LIX readability grade 40-45
+* Maintain the full technical depth and context of the original content with the LIX readability grade 40-45
 * When simplifying or splitting sentences, preserve all technical details and relationships between concepts.
 * Each concept from the source material must be present in the revised version.
 * Do not rephrase whole sentences or paragraphs where updating only a phrase fulfilles the task.
 
 # Structure
-* Shorten or split sentences longer than 25 words but keep their meaning.
+* Prioritize clarity and conciseness in sentence structure.
+* While avoiding overly long sentences (over 25 words), favor maintaining natural sentence complexity and flow when possible.
+* Balance conciseness with a natural reading rhythm.
+* Avoid excessively short, choppy sentences that disrupt the flow of information.
 * End sentences with a period.
 * Do not join sentences with semicolons.
-* Enforce proper sentence spacing. Use exactly one space character between sentences. Eliminate any instances of double spaces.
+* Enforce proper sentence spacing. Use exactly one space character between sentences. Eliminate any instances of multiple spaces.
 
 # Tone
 * Maintain a consise and explanatory professional tone.
