@@ -28,6 +28,9 @@
 * Use commas in lists of three or more items. Do not place a comma before the final conjunction in simple series.
 * Use commas around phrases like "for example" or "that is".  Use a comma after introductory phrases.
 
+# Colons
+* Capitalize the first word after a colon only if it is a proper noun or the beginning of a complete sentence.
+
 # Headings
 * Capitalize only the first word of a heading.
 * Keep headings short.
