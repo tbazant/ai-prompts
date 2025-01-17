@@ -16,7 +16,7 @@ Update the current file (or selected text) where any of the below rules are not 
 
 # Structure
 * Prioritize clarity and conciseness in sentence structure.
-* While avoiding overly long sentences (over 25 words), favor maintaining natural sentence complexity and flow when possible.
+* Split or simplify sentences longer than 25 words. Favor maintaining natural sentence complexity and flow when possible.
 * Balance conciseness with a natural reading rhythm.
 * Avoid excessively short, choppy sentences that disrupt the flow of information.
 * End sentences with a period.
