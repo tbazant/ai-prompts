@@ -1,0 +1,25 @@
+1.1 Motivation
+
+Organizations are shifting to cloud native environments. They leverage
+containerized workloads and Kubernetes management platforms like Rancher by
+SUSE.  The goal is to gain greater flexibility, scale, and resilience. This
+allows organizations to accelerate innovation and quickly adjust to dynamic
+conditions. In this always-on IT environment, application mobility and data
+protection are critical considerations.
+
+Kasten K10 by Veeam provides enterprise operations teams with an easy-to-use,
+scalable, and secure system.  It provides backup and restore, disaster recovery,
+and mobility of cloud-native applications.
+
+1.2 Scope
+
+This guide provides the steps to install and set up Veeam’s Kasten K10 in your
+Rancher 2.6 by SUSE Kubernetes environment.  It also provides an overview of
+application backup and restoration.
+
+1.3 Audience
+
+This document is recommended for IT operations teams, backup administrators,
+DevOps teams, DevSecOps teams, and others.  These teams ensure business
+continuity, disaster recovery, ransomware and threat reduction, and application
+migration for cloud native landscapes.
