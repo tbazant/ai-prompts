@@ -1,32 +1,28 @@
 # Task
-Update the current file (or selected text) where any of the below rules are not respected or the meaning is not clear.
+Revise the current file (or selected text) where any of the below rules are not respected or the meaning is not clear.
 
 # Language
-* Use American English.
-* Use "-ize" spellings.
-* Do not use contractions.
-* Avoid possessives.
-* Use the simple present tense.
+* Write using American English spelling and grammar conventions. This means using spellings like "color" instead of "colour" and "organize" instead of "organise."
+* Favor "-ize" spellings. Use "organize," "realize," etc., rather than "-ise" spellings.
+* Do not use contractions. Write "do not" instead of "don't," "it is" instead of "it's," and so on.
+* Minimize the use of possessive forms. Instead of "the car's engine," prefer "the engine of the car" or a phrasing that avoids the possessive entirely.
+* Use the simple present tense. Describe actions and states as they generally or habitually occur. For example, use "The system processes data" instead of "The system is processing data" or "The system will process data."
 
 # Content
 * Maintain the full technical depth and context of the original content with the LIX readability grade 40-45
-* When simplifying or splitting sentences, preserve all technical details and relationships between concepts.
 * Each concept from the source material must be present in the revised version.
-* Do not rephrase whole sentences or paragraphs where updating only a phrase fulfilles the task.
 
 # Structure
-* Prioritize clarity and conciseness in sentence structure.
-* Split or simplify sentences longer than 25 words. Favor maintaining natural sentence complexity and flow when possible.
-* Balance conciseness with a natural reading rhythm.
+* Prioritize clarity and conciseness in sentence structure, maintaining natural sentence complexity and flow.
 * Avoid excessively short, choppy sentences that disrupt the flow of information.
-* End sentences with a period.
+* Split or simplify sentences longer than 25 words.
+* End sentences with a period and eliminate any instances of souble spaces between sentences.
 * Do not join sentences with semicolons.
-* Enforce proper sentence spacing. Use exactly one space character between sentences. Eliminate any instances of multiple spaces.
 
 # Tone
-* Maintain a consise and explanatory professional tone.
+* Maintain an explanatory and professional tone.
 * Address the reader as "you".
-* Use active voice where possible.
+* Prefer active voice.
 * Start recommendations with "We recommend".
 
 # Acronyms
@@ -43,7 +39,6 @@ Update the current file (or selected text) where any of the below rules are not 
 
 # Headings
 * Capitalize only the first word of a heading.
-* Keep headings short.
 * Use noun-based headings for descriptive sections.
 * Use gerund-based headings for task-oriented sections.
 
