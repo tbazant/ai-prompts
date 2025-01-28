@@ -1,0 +1,13 @@
+.Common parameters
+[options="header"]
+|===
+|Name |Description |Value
+|`cache.enabled` |Enable cache layer or not |`https://core.harbor.domain`
+|`existingSecretAdminPasswordKey` |The name of the key in the secret where to find harbor admin password Harbor |`HARBOR_ADMIN_PASSWORD`
+|`harborAdminPassword` |The initial password of Harbor admin. Change it from portal after launching Harbor |`Harbor12345`
+|`imagePullSecrets` |The imagePullSecrets names for all deployments |
+|`updateStrategy.type` |The update strategy for deployments with persistent volumes(jobservice, registry): RollingUpdate or Recreate. Set it as Recreate when RWM for volumes isn't supported |`RollingUpdate`
+|`logLevel` |The log level used for Harbor services. Allowed values are [ fatal | error | warn | info | debug | trace ] |`debug`
+|`enableMigratehelmHook` |Run the migration job via helm hook, if it is true, the database migration will be separated from harbor-core, run with a pre-upgrade job migration-job |`false`
+|`caSecretName` |The name of the secret which contains key named ca.crt. |
+|===

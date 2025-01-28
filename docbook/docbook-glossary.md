@@ -1,7 +1,5 @@
-# Creating a glossary from a Docbook assembly file
-
-Analyze all files from the doc-modular repository that are referenced in openwebui.asm.xml
-to enhance the glossary AI-glossary.xml. Follow these rules:
+Analyze all files from the cody://repository repository that are referenced from @ASSEMBLY-FILE
+to enhance the glossary in @GLOSSARY-FILE. Follow these rules:
 
 * if the term has an acronym, insert the acronym first and delimit it from the literal version with a comma
 * do not capitalize the literal part if not necessary

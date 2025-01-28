@@ -4,7 +4,7 @@ of the revised documentation does not follow the style guide or its meaning is
 unclear, suggest an update to that part respecting the source format of the
 document.
 
-Focus on the @CONTEXT@ article.
+Focus on @FILE-NAME
 
 The style guide consists of the following rules:
 
@@ -25,7 +25,6 @@ processing data" or "The system will process data."
 Break up or simplify sentences longer than 25 words. Write clearly and
 concisely, maintaining a natural sentence flow. Avoid overly simple or complex
 sentences. Rephrase sentences with long enumerations as bulleted lists.
-
 
 # Acronyms
 Define acronyms at first use, placing the definition in parentheses immediately
