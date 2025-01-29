@@ -2,7 +2,7 @@
 [options="header"]
 |===
 |Name |Description |Value
-|`cache.enabled` |Enable cache layer or not |`https://core.harbor.domain`
+|`cache.enabled` |Enable cache layer or not |`true`
 |`existingSecretAdminPasswordKey` |The name of the key in the secret where to find harbor admin password Harbor |`HARBOR_ADMIN_PASSWORD`
 |`harborAdminPassword` |The initial password of Harbor admin. Change it from portal after launching Harbor |`Harbor12345`
 |`imagePullSecrets` |The imagePullSecrets names for all deployments |

@@ -1,0 +1,11 @@
+:doctype: book
+include::../attributes.adoc[]
+
+== What are SUSE Private Registry benefits?
+SPR is based on the Harbor project and includes all its core features as well as added benefits, for example:
+
+* *On-premises container registry.* SPR is a locally hosted container registry with access to online SUSE registry services.
+* *Security.* SPR offers security considerations for containerized environments.
+It includes authentication, authorization and vulnerability scanning.
+* *Deployment flexibility.* You can install SPR on a Kubernetes environment such as RKE2.
+You can also deploy SPR using Helm chart.
