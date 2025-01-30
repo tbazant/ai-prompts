@@ -1,0 +1,6 @@
+
+|===
+|/etc/login.defs|PASS_MAX_DAYS|Maximum number of days a password is valid.
+|/etc/login.defs|PASS_MIN_DAYS|Minimum number of days before a user can change the password since the last change.
+|/etc/default/useradd|INACTIVE|Number of days after password expiration until the account is disabled.
+|===
