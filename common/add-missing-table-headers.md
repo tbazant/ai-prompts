@@ -1,4 +1,4 @@
-Autocomplete table headers and titles, based on the following rules:
+Autocomplete table headers and titles following these rules:
 * Capitalize only the first word of newly added title or heading.
 * Do not replace a partial header completely, build upon the existing header structure.
 * If a table is missing a title, infer and add a meaningful title based on the table's content.
