@@ -1,0 +1,52 @@
+<table>
+  <tgroup cols="3">
+    <colspec colnum="1" colname="1" colwidth="3334*"/>
+    <colspec colnum="2" colname="2" colwidth="3334*"/>
+    <colspec colnum="3" colname="3" colwidth="3334*"/>
+    <thead>
+      <row>
+        <entry>
+          <para>
+            Raw Devices
+          </para>
+        </entry>
+        <entry>
+          <para>
+            RAID 1 (mirror)
+          </para>
+        </entry>
+        <entry></entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry>
+          <simplelist><member><filename>/dev/sdb1</filename></member><member><filename>/dev/sdc1</filename></member>
+          </simplelist>
+        </entry>
+        <entry>
+          <para>
+            <filename>/dev/md0</filename>
+          </para>
+        </entry>
+        <entry morerows="1">
+          <para/>
+          <para>
+            <filename>/dev/md2</filename>
+          </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <simplelist><member><filename>/dev/sdd1</filename></member><member><filename>/dev/sde1</filename></member>
+          </simplelist>
+        </entry>
+        <entry>
+          <para>
+            <filename>/dev/md1</filename>
+          </para>
+        </entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>

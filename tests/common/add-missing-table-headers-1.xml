@@ -1,92 +1,94 @@
-<table>
-  <title>Default storage settings</title>
-  <tgroup cols="4">
-    <thead>
-      <row>
-        <entry>
-          <para>
-            Setting
-          </para>
-        </entry>
-        <entry>
-          <para>
-            computation
-          </para>
-        </entry>
-        <entry>
-          <para>
-            desktop
-          </para>
-        </entry>
-      </row>
-    </thead>
+<informaltable>
+  <tgroup cols="3">
     <tbody>
       <row>
         <entry>
           <para>
-            preallocation
+            <filename>/etc/login.defs</filename>
           </para>
         </entry>
         <entry>
           <para>
-            metadata
+            <literal>PASS_MAX_DAYS</literal>
           </para>
         </entry>
         <entry>
           <para>
-            off
-          </para>
-        </entry>
-        <entry>
-          <para>
-            metadata
+            Maximum number of days a password is valid.
           </para>
         </entry>
       </row>
       <row>
         <entry>
           <para>
-            encryption
+            <filename>/etc/login.defs</filename>
           </para>
         </entry>
         <entry>
           <para>
-            on
+            <literal>PASS_MIN_DAYS</literal>
           </para>
         </entry>
         <entry>
           <para>
-            off
-          </para>
-        </entry>
-        <entry>
-          <para>
-            off
+            Minimum number of days before a user can change the password since
+            the last change.
           </para>
         </entry>
       </row>
       <row>
         <entry>
           <para>
-            disk_cache
+            <filename>/etc/login.defs</filename>
           </para>
         </entry>
         <entry>
           <para>
-            writethrough
+            <literal>PASS_WARN_AGE</literal>
           </para>
         </entry>
         <entry>
           <para>
-            unsafe*
+            Number of days between the last password change and the next
+            password change reminder.
+          </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>
+            <filename>/etc/default/useradd</filename>
           </para>
         </entry>
         <entry>
           <para>
-            none
+            <literal>INACTIVE</literal>
+          </para>
+        </entry>
+        <entry>
+          <para>
+            Number of days after password expiration until the account is
+            disabled.
+          </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>
+            <filename>/etc/default/useradd</filename>
+          </para>
+        </entry>
+        <entry>
+          <para>
+            <literal>EXPIRE</literal>
+          </para>
+        </entry>
+        <entry>
+          <para>
+            Account expiration date in the format YYYY-MM-DD.
           </para>
         </entry>
       </row>
     </tbody>
   </tgroup>
-</table>
+</informaltable>
