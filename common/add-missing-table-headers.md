@@ -1,19 +1,23 @@
-Autocomplete table headers and title following these rules:
-* If a table is missing a title, infer and add a meaningful title based on the table's content.
-* If a table is missing a row header, infer and add the appropriate header based on the corresponding table's row content.
-* If a table is missing a column header, infer and add the appropriate header based on the corresponding table's column content.
-* If the table content does not provide enough information to infer a meaningful header or title, leave a comment explaining the missing header or title.
+# Autocomplete table headers and titles following these rules:  
 
-Maintain the structure:
-* Output the whole updated file including the unmodified parts.
-* Do not replace a partial header completely, build upon the existing header structure.
-* Preserve the existing table structure and content.
-* Do not add new rows or columns to the table.
+* If a table is missing a title, infer and add a meaningful one based on the table's content.  
+* If a table is missing row headers, infer and add appropriate ones based on the content of the corresponding rows.  
+* If a table is missing column headers, infer and add appropriate ones based on the content of the corresponding columns.  
+* If the table content does not provide enough context to infer a meaningful header or title, leave a comment explaining what is missing.  
 
-When inferring a title, consider the following:
-* Look for keywords or phrases in the table's content that can be used as a title.
-* Use a concise and descriptive title that summarizes the table's content.
-* Avoid using generic titles such as "Table 1" or "Data".
+## Maintain the structure:  
 
-If the updated file is AsciiDoc, respect the following:
-* When adding a new column header, indicate it by inserting `[options="header"]` on a separate line right between the table title and the table's starting string "|===". 
+* Output the entire updated file, including unmodified parts.  
+* Do not completely replace an existing header—improve or expand upon its current structure.  
+* Preserve the table’s existing structure and content.  
+* Do not introduce new rows or columns.  
+
+## When inferring a title:  
+
+* Identify key terms or phrases within the table's content that could serve as a meaningful title.  
+* Choose a concise, descriptive title that accurately summarizes the table's subject.  
+* Avoid generic titles like "Table 1" or "Data."  
+
+## For AsciiDoc formatting:  
+
+* When adding a new column header, insert `[options="header"]` on a separate line between the table title and the `|===` table delimiter.  
