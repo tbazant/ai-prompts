@@ -4,5 +4,6 @@ The first column is the term name, the second column is its definition.
 If the third column is specified, append it to the term definition as "The default value is " + the content of the third value.
 Leave the table cell's content inact including formatting.
 Output proper asciidoc source.
+Do not use bullets '*' at the beginning of each term line.
 Do not insert empty lines between adjacent list terms.
 
