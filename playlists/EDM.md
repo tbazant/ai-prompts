@@ -1,5 +1,5 @@
 From the attached list of EDM tracks, create a playlists:
-* use only the tracks from the attached CSV list, do not add external tracks
+* use only the tracks from the attached list, do not add external tracks
 * each playlist will include 10 tracks
 * distribute all tracks
 * tracks must be unique between the playlists
