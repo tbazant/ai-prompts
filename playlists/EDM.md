@@ -9,7 +9,7 @@ From the attached CSV list, create a playlists of electronic dance music (EDM).
   - the second good track is on the 'LG2' position, it is called 'Chamber Of Snd Dub', has also 3 black stars and BPM of 136
 * use only the tracks from the attached CSV list, do not add external tracks
 * each playlist will include 10 tracks
-* include only the tracks from column 'winner' with 3-black-star rating ★★★, not ★★☆ nor ★☆☆; skip tracks from columns 'track1', 'track2',...
+* include only the tracks from column 'winner', skip tracks from columns 'track1', 'track2',...
 * distribute all tracks satisfying the criteria
 * make transition between tracks smooth by placing tracks with similar BPM next to each other
 * start a playlist with slower tracks and gradually build the energy, then slow into a chill
